@@ -1,27 +1,61 @@
 # Hi, I'm Prempeh Joseph 👋
 
-As a passionate Frontend Developer, I’m always eager to explore innovative technologies and create impactful web applications.  
-I have a strong foundation in React, Next.js, Tailwind CSS, and TypeScript, and I love turning complex problems into simple, beautiful solutions.
+I'm a passionate **Fullstack Developer** who builds scalable, efficient, and user-focused applications.  
+I specialize in creating seamless digital experiences — from intuitive frontends to powerful backend systems engineered with Java and Spring Boot.
 
 ---
 
-### 🚀 What I Bring to the Table
-- **Frontend Mastery:** Building responsive and user-friendly web interfaces using React.js & Next.js.
-- **Next.js for Server-Side Rendering:** I leverage Next.js for server-side rendering and optimized SEO for web applications
-- **Backend Familiarity:** Integrating APIs, authentication, and databases with Firebase, Sanity, and Node.js.
-- **Data Visualization:** I utilize diverse visualization tools and libraries to transform raw data into clear, engaging charts, graphs, and other visual formats that reveal meaningful insights.
-- **Real-time Apps:** Implementing WebSocket/Socket.IO for dynamic user experiences.
-- **Design-Driven Development:** Leveraging Tailwind CSS for clean, modern UI.
-- **Team Leadership:** Leading and collaborating in SaaS project teams.
+## 🚀 What I Bring to the Table
+
+### 🖥️ Frontend Excellence
+- Building modern, responsive UIs with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**
+- Deep experience with **SSR/SSG**, routing, caching, and SEO using Next.js
+- Creating dashboards, charts, and data-driven visual interfaces
+
+### ⚙️ Backend & Infrastructure
+- Architecting scalable backend systems with **Java** and **Spring Boot**
+- Designing secure REST APIs and microservices
+- Working with **PostgreSQL**, Supabase, and Firebase for structured and unstructured data
+- Authentication & user management with **Keycloak** and **NextAuth**
+- Building production-ready applications with **Docker** and containerized environments
+
+### 🧰 Additional Skills
+- Real-time communication with **WebSockets / Socket.IO**
+- Managing content using headless CMS platforms like **Sanity**
+- Strong software engineering principles: clean architecture, maintainability, and optimization
+- Leading and collaborating across SaaS development teams
 
 ---
 
-### 📫 Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/joseph-prempeh-1219b2209/](https://www.linkedin.com/in/joseph-prempeh-1219b2209/)
-- Email: [prempehjoseph14@gmail.com](mailto:prempehjoseph14@gmail.com)
-- Portfolio: [https://prempehjoseph.vercel.app/](https://prempehjoseph.vercel.app/)
-- WhatsApp: [+233271748963](https://wa.me/233271748963)
+## 🛠️ Tech Stack
+
+**Frontend:**  
+React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS  
+
+**Backend:**  
+Java · Spring Boot  
+
+**Database & Storage:**  
+PostgreSQL · Supabase · Firebase · Sanity  
+
+**Authentication:**  
+Keycloak · NextAuth · Firebase Auth  
+
+**DevOps & Tools:**  
+Docker · Git · GitHub · Vercel · CI/CD Pipelines  
+
+**Real-Time:**  
+Socket.IO · WebSockets  
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_  
+## 📫 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/joseph-prempeh-1219b2209](https://www.linkedin.com/in/joseph-prempeh-1219b2209/)  
+- **Email:** [prempehjoseph14@gmail.com](mailto:prempehjoseph14@gmail.com)  
+- **Portfolio:** [prempehjoseph.vercel.app](https://prempehjoseph.vercel.app/)  
+- **WhatsApp:** [+233271748963](https://wa.me/233271748963)
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_
