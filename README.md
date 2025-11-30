@@ -8,7 +8,7 @@ I specialize in creating seamless digital experiences — from intuitive fronten
 ## 🚀 What I Bring to the Table
 
 ### 🖥️ Frontend Excellence
-- Building modern, responsive UIs with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**
+- Building modern, responsive UIs with **React**, **Next.js**, **TypeScript**, **jQuery**, and **Tailwind CSS**
 - Deep experience with **SSR/SSG**, routing, caching, and SEO using Next.js
 - Creating dashboards, charts, and data-driven visual interfaces
 
@@ -30,7 +30,7 @@ I specialize in creating seamless digital experiences — from intuitive fronten
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS  
+React · Next.js · TypeScript · JavaScript · **jQuery** · Tailwind CSS · HTML · CSS  
 
 **Backend:**  
 Java · Spring Boot  
